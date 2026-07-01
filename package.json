@@ -1,0 +1,9 @@
+{
+  "name": "pokevault-v29",
+  "version": "29.0.0",
+  "description": "PokéVault — Pokémon card & sealed product portfolio tracker with live TCG prices, price history chart (6-month max), multi-select grade compare, and full mobile support.",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {}
+}
