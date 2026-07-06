@@ -1,5 +1,5 @@
 /* ══════════════════════════════════════════════════════════════════
-   PokéVault app.js  v29
+   PokéVault app.js  v2967
    Requires: Supabase JS v2, Chart.js v4, loaded in index.html
 
    v29 changes:
